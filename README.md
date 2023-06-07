@@ -1,11 +1,10 @@
 
 ## Base de datos.
 > *Iniciar sesión desde la consola*.
-<pre>
-<code>
+
+```sql
 psql --username=postgres --dbname=postgres
-</code>
-</pre>
+```
 ___
 
 > *Ver la lista de las base de datos*.
